@@ -2,7 +2,7 @@
 //function that generates the password, uses 5 parameters to generate the unique password.
 function generatePassword(a, b, c, d, e) {
   var length = a,
-        charset = b + c + d + e;
+        charset = b + c + d + e,
         retVal = "";
     for (var i = 0, n = charset.length; i < length; ++i) {
         retVal += charset.charAt(Math.floor(Math.random() * n));
