@@ -1,4 +1,9 @@
 # Password Generator Starter Code
+
+![Password Generator screenshot](/Develop/password-generator.jpg?raw=true "Password Generator screenshot")
+
+Link: https://derekmiller88.github.io/password-generator/
+
 User Story
 AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
